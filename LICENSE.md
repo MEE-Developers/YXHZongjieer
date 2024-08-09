@@ -1,6 +1,6 @@
 # The DTSM License (DTSM)
 
-**Version 0.2, 9 August 2024**
+**Version 0.3, 9 August 2024**
 
 **Copyright &copy; 2024 Shimada Mizuki. All rights reserved.**
 
@@ -23,9 +23,9 @@
 
 **丁）** 衍生项目（与本项目合称“项目”）
 
-**戊）** 周边
+**戊）** 其他项目的主要部分
 
-**己）** 其他项目的主要和衍生部分
+“本项目”包含的内容以作者实际开放的内容为准。
 
 #### 一、项目许可的人员范围
 
